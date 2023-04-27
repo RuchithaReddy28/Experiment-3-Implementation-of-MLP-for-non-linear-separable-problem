@@ -43,6 +43,10 @@ Step 4 : Test for the XOR patterns.
 
 ### PROGRAM 
 ```
+Name:Akkireddy Ruchitha Reddy
+Ref.No:212221230004
+```
+```
 import numpy as np
 import pandas as pd
 import io
@@ -120,7 +124,7 @@ predict(w1,w2,test)
 
 
 ### OUTPUT
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/blob/main/1.png?raw=true)
 
 ### RESULT
 Thus the implementation of MLP for non-linear separable problem is executed successfully.
